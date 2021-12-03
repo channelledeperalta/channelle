@@ -61,4 +61,4 @@ This creative computing community is based on using each other for help and guid
 
 I am still very much confused on what this brief required as an outcome but I was able to have a brief introduction into the world of creative computing and coding. Understanding that coding is within our daily lives but is overlooked by many even myself, like automatic doors, escalators, anything we use daily, there is always some sort of coding behind it. 
 This has enabled me to stay curious about things around me, being more intrigued about the science behind things that make up our living or make our daily lives easier. Realising that communities within this subject are not all advanced as we think, there are people who offer endless support, information and guidance to those who are known as a beginner. In the near future, I will like to learn more in depth on the use of coding and the physical computing. To also be able to use the knowledge I learn and think of ways of how it can elevate the work I produce in the future. <3
-![image](https://user-images.githubusercontent.com/95457119/144538101-d43af32f-3a50-4375-b3a4-181e26d89245.png)
+
